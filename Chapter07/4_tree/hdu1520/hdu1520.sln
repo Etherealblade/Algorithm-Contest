@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hdu1520", "hdu1520\hdu1520.vcxproj", "{92143031-8B24-4A50-9205-92FFEF734546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92143031-8B24-4A50-9205-92FFEF734546}.Debug|x64.ActiveCfg = Debug|x64
+		{92143031-8B24-4A50-9205-92FFEF734546}.Debug|x64.Build.0 = Debug|x64
+		{92143031-8B24-4A50-9205-92FFEF734546}.Debug|x86.ActiveCfg = Debug|Win32
+		{92143031-8B24-4A50-9205-92FFEF734546}.Debug|x86.Build.0 = Debug|Win32
+		{92143031-8B24-4A50-9205-92FFEF734546}.Release|x64.ActiveCfg = Release|x64
+		{92143031-8B24-4A50-9205-92FFEF734546}.Release|x64.Build.0 = Release|x64
+		{92143031-8B24-4A50-9205-92FFEF734546}.Release|x86.ActiveCfg = Release|Win32
+		{92143031-8B24-4A50-9205-92FFEF734546}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9077533-3C0E-4B78-9EAA-F2FCC0097456}
+	EndGlobalSection
+EndGlobal
