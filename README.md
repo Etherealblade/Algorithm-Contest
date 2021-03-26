@@ -1,5 +1,4 @@
 # Algorithm-Contest
-&lt;算法竞赛入门到进阶> 罗, 郭. 
 
 
 此repo与Programming-Contest-Challenge-Book相关, 很多知识点都出现了重复, 我只是稍微过了一遍. 
